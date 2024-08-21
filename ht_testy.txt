@@ -1,0 +1,75 @@
+1
+24 5
+i 12345
+i 1334
+i 1434
+i 1534
+i 3234
+i 5234
+i 5234
+i 7234
+i 8234
+i 9234
+i 5234
+i 3726
+i 3748563
+i 354345
+i 8672354
+i 36478
+i 63748
+i 3647365
+i 65463
+i 38747
+i 387444
+i 487444
+i 587444
+r 9234
+
+Wynik:
+8
+12345 3234 36478
+
+---------------
+
+2
+15 2
+i C
+i i
+i t
+i M
+i M
+i M
+r C
+i u
+i P
+i l
+i M
+i f
+i W
+r o
+i s
+
+Wynik:
+4
+l M t
+
+---------------
+
+3
+operating
+C is the most commonly used programming Language for writing operating systems
+The first operating system written in C is Unix.
+Later Operating systems like GNU/Linux were all written in C.
+Not only is C the Language of operating systems,it is the precursor and inspiration for almost all of the most popular
+high-level Languages available today.
+In fact, Perl, PHP, Python and Ruby are all written in C.
+By way of analogy, let's say that you were going to be learning Spanish,
+Italian, French, or Portuguese.
+Do you think knowing Latin would be helpful?
+Just as Latin was the basis of all of those Languages,
+knowing C will enable you to understand and appreciate an entire family of programming languages
+built upon the traditions of C. Knowledge of C enables freedom.
+
+Wynik:
+32
+operating 4

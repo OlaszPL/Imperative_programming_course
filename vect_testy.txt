@@ -1,0 +1,70 @@
+1
+14
+p 10
+i 0 30
+i 2 40
+p 20
+p 5
+s
+p 3
+e 4
+p 15
+i 3 50
+v 20
+r 10
+p 12
+f
+
+Wynik:
+11
+5 10 50 30 3 15 0 0 0 0 12
+
+---------------
+
+2
+14
+p a
+p X
+p k
+s
+p i
+p y
+e 2
+p R
+f
+i 1 t
+i 3 G
+v X
+i 5 E
+d
+
+Wynik:
+10
+t G R
+
+-----------------
+
+3
+13
+p 23 Dominik Adamczyk
+p 23 Ewelina Adamiak
+p 25 Jan Augustyn
+p 24 Kacper Augustyn
+p 23 Ewelina Badeja
+i 0 22 Jakub Barber
+i 1 24 Kacper Barczynski
+i 3 24 Dorota Bujak
+e 1
+v 24 Kacper Augustyn
+d
+f
+s
+
+Wynik:
+6
+25 Jan Augustyn
+24 Dorota Bujak
+23 Dominik Adamczyk
+23 Ewelina Adamiak
+23 Ewelina Badeja
+22 Jakub Barber
